@@ -1,0 +1,18 @@
+<list>
+    <gadget>
+        <type>Телевизоры</type>
+        <firmNames>
+            <firmName>LG</firmName>
+            <firmName>Samsung</firmName>
+        </firmNames>
+        <priceFrom>20000</priceFrom>
+    </gadget>
+    <gadget>
+        <type>Наушники</type>
+        <firmNames>
+            <firmName>Beats</firmName>
+        </firmNames>>
+        <priceFrom>5000</priceFrom>
+        <groups/>
+    </gadget>
+</list>
